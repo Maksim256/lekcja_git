@@ -1,0 +1,2 @@
+dodaje dane do a
+a tu dodaje opis do commit

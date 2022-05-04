@@ -1,0 +1,5 @@
+dodaje pierwsza linie
+dodaje druga linie
+trzecia linia
+czwarta linia
+piata linia
